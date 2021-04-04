@@ -1,0 +1,38 @@
+-to see location of vimrc
+  :echo $MYVIMRC
+
+-to see location of vimrc
+  :echo $MYVIMRC
+
+-to see location of vim folder
+  :echo $VIM
+
+-to print the current date
+  :r!date
+
+-to execute a command then paste it
+  :r!<your_command>
+
+-to see vim version
+  :version
+
+-vim packages
+  https://medium.com/@paulodiovani/installing-vim-8-plugins-with-the-native-pack-system-39b71c351fea
+
+zsh:1: no such file or directory: echo/Applications/MacVim.app/Contents/Resources/vim
+
+-to install good plugin manager
+
+https://github.com/junegunn/vim-plug/wiki/tutorial
+  install to $HOME/.vim/autoload
+  put the file there
+ in the vim put call to plug begin, and put the plugins in between
+ put call to plug end at the end
+
+
+-to see your markdown
+
+-to see hidden files in NERDTree
+   shift + I on the folder
+
+ 
